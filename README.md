@@ -32,7 +32,7 @@ This project provides solution for extracting the letters and then predicting th
 
    ![Binary Image](https://github.com/theiturhs/handwritten-sentence-prediction/assets/96874023/5066ad97-735b-4671-9701-34a7fc26f3c3)
 
-2. Column wise sum - Histogram: frequency vs pixal values - 0 to 255
+2. Column wise sum - Histogram: frequency vs total number of columns
 
    ![Histogram - Column wise](https://github.com/theiturhs/handwritten-sentence-prediction/assets/96874023/2f245fe9-44ab-4ac5-9fad-52c18306dd38)
 
